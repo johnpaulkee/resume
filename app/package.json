@@ -18,5 +18,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://johnpaulkee.github.io/resume"
+  "homepage": "https://johnpaulkee.github.io"
 }
